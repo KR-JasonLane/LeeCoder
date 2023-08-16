@@ -10,7 +10,7 @@
 
 Hi everyone!👋
 
-I am a developer capable of creating Windows applications. 🧑‍💻
+I am a developer creating Windows applications. 🧑‍💻
 
 
 Over the course of a year, I participated in the development of a 3D medical imaging software used in dentistry, utilizing C++ MFC and VTK libraries. 🦷
