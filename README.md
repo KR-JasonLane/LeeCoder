@@ -1,19 +1,23 @@
 
 <a href="https://lee-coder.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=White"/>
+  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=000000"/>
 </a>
-### Hi there 👋
-<!--
-**LeeJeonSeok/LeeJeonSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="malbox0609@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=Gmail&logoColor=EA4335"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 Hi there!
+
+I am a developer capable of creating Windows applications. 🧑‍💻
+
+
+Over the course of a year, I participated in the development of a 3D medical imaging software used in dentistry, utilizing C++ MFC and VTK libraries. 🦷
+
+Currently, I am engaged in the development of medical PACS software using C# WPF.🏥
+
+
+And I find game development very exciting, so after my work hours, I return home to pursue it as a hobby.🎮
+
+
