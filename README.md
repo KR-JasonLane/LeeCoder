@@ -12,10 +12,10 @@ Hi everyone!👋
 
 I am a developer creating Windows applications. 🧑‍💻
 
+Over the course of a year, I took part in developing a 3D medical imaging software for dentistry. 
+This involved using C++ MFC and VTK libraries.🦷
 
-Over the course of a year, I participated in the development of a 3D medical imaging software used in dentistry, utilizing C++ MFC and VTK libraries. 🦷
-
-Currently, I am engaged in the development of medical PACS software using C# WPF.🏥
+Currently, I am engaged in developing medical PACS software using C# and WPF.🏥
 
 
 And I find game development very exciting, so after my work hours, I return home to pursue it as a hobby.🎮
