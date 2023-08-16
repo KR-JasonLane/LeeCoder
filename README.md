@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<a href="https://lee-coder.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=White"/>
+</a>
+### Hi there 👋
 <!--
 **LeeJeonSeok/LeeJeonSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
